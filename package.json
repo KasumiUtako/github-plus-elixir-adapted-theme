@@ -1,16 +1,16 @@
 {
-  "name": "github-plus-theme",
-  "displayName": "GitHub Plus Theme",
+  "name": "github-plus-theme-elixir-adapted",
+  "displayName": "GitHub Plus Theme Elixir Adapted",
   "description": "A GitHub inspired color theme for VSCode code and interface!",
-  "version": "1.1.2",
-  "publisher": "thenikso",
+  "version": "0.0.1",
+  "publisher": "fimars",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thenikso/github-plus-theme"
+    "url": "https://github.com/KasumiUtako/github-plus-theme"
   },
   "bugs": {
-    "url": "https://github.com/thenikso/github-plus-theme/issues"
+    "url": "https://github.com/KasumiUtako/github-plus-theme/issues"
   },
   "engines": {
     "vscode": "^1.16.0"
@@ -19,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "GitHub Plus",
+        "label": "GitHub Plus Elixir Adapted",
         "uiTheme": "vs",
-        "path": "./themes/github-plus-theme.json"
+        "path": "./themes/github-plus-elixir-adapted-theme.json"
       }
     ]
   },
