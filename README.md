@@ -3,7 +3,7 @@
 A full [VSCode](https://code.visualstudio.com/) editor theme inspired by the
 GitHub color scheme. *Elixir Adapted*.
 
-![screenshot](./screenshot.jpg)
+![screenshot](./screenshot.png)
 
 Use [GitHub issues](https://github.com/KasumiUtako/github-plus-elixir-adapted-theme) to report problems/requests (it might take a while to get feedback)
 
