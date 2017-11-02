@@ -93,6 +93,7 @@
     },
     {
       "scope": [
+        "constant",
         "constant.numeric",
         "constant.language",
         "variable.language.this",
